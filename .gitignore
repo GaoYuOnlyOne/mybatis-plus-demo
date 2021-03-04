@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+demo-base/demo-base.iml
+demo-gen/demo-gen.iml
+mybatisplus.iml
+demo-gen/target
+demo-base/target
+
